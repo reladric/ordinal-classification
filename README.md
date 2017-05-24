@@ -1,5 +1,5 @@
-#Implementation of Oridinal Classification Paper using Logistic Regression and SVM
-### Introduction
+# Implementation of Oridinal Classification Paper using Logistic Regression and SVM  
+### Introduction  
 In this project, we seek to implement the ordinal classification paper here: [http://www.cs.waikato.ac.nz/~eibe/pubs/ordinal_tech_report.pdf]. A regular classification would treat each class as not having any order and would miss the inherent information that comes with ordering and this paper suggests a method to overcome this disadvantage.  
 
 ### Existing Work
