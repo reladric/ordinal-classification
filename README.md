@@ -15,4 +15,4 @@ We create a 1/0 field for all but final class and assign the value 1 if the clas
 We use the winetesting dataset from UCI Machine learning repository: https://archive.ics.uci.edu/ml/datasets/Wine+Quality  
 
 
-Proceed [here](ordinal-classification.html) for the analysis
+Proceed [here](ordinal-classification.ipynb) for the analysis
